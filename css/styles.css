@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    
+    
+}
+
+.main {
+    text-align: center;
+}
+
+li {
+    margin-top: 40px;
+}
+
+.box:hover {
+    background-color: lightslategray;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px
+}
+
+.box1 {
+    background-color: palevioletred;
+}
+
+.box2 {
+    background-color: darkcyan;
+}
+
+.box3 {
+    background-color: rgb(219, 190, 148);
+}
+
+
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: brown;
+}
+
+.mayo {
+    background-color: lightslategray;
+}
+
+.ingredients {
+    text-align: center;
+
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
